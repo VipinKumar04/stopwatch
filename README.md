@@ -9,9 +9,6 @@ A modern and responsive **Stopwatch Web Application** built using **HTML**, **Ta
 🔗 **Live Preview:**  
 https://vipinkumar04.github.io/stopwatch/
 
-📂 **GitHub Repository:**  
-https://github.com/VipinKumar04/stopwatch
-
 ---
 
 ## 📸 Screenshot
