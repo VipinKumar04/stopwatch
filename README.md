@@ -18,15 +18,6 @@ https://github.com/VipinKumar04/stopwatch
 
 <img width="1902" height="944" alt="image" src="https://github.com/user-attachments/assets/9e62d4b4-13d4-4f1f-9b80-b76a2a01e4f8" />
 
-
-Then use:
-
-```md
-![Stopwatch Screenshot](stopwatch.png)
-```
-
----
-
 ## ✨ Features
 
 - ▶️ Start Stopwatch
