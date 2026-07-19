@@ -50,28 +50,6 @@ stopwatch/
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/VipinKumar04/stopwatch.git
-```
-
-### Navigate to the project
-
-```bash
-cd stopwatch
-```
-
-### Run the project
-
-Simply open **index.html** in your browser.
-
-No installation or build tools are required.
-
----
-
 ## ⚙️ Functionality
 
 ### ▶️ Start
@@ -126,12 +104,6 @@ Contributions are always welcome.
 3. Commit your changes
 4. Push your branch
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
